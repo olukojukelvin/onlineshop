@@ -1,0 +1,12 @@
+https://jose.cs.herts.ac.uk/oo19aai
+https://jose.cs.herts.ac.uk/mysql/
+Accounts for Windows, MySQL and SQL Server 
+:
+Username:
+oo19aai
+Password:
+30X4MErh
+MySQL 5.5 database name:
+dboo19aai
+SQL Server 2008 R2 database name:
+dboo19aai
