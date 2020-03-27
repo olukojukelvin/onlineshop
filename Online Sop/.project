@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Online Sop</name>
+	<name>Shopping Cart</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -25,4 +25,11 @@
 		<nature>org.eclipse.php.core.PHPNature</nature>
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>index.php</name>
+			<type>1</type>
+			<location>C:/Users/kolukoju/Desktop/UH/WEBSCRIPTING/WEB SCRIPTING CW2/shopping cart/index.php</location>
+		</link>
+	</linkedResources>
 </projectDescription>
